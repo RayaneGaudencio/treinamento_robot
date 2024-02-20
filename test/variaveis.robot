@@ -1,5 +1,5 @@
 *** Settings ***
-Resource    ../resources/teste1.resource
+Resource    ../resources/variaveis.resource
 
 
 *** Test Cases ***
